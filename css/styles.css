@@ -1,6 +1,7 @@
 header h1 {
     color: #007670;
 }
+nav ul {padding: 0;}
 nav ul li {
     float: left;
     list-style-type: none;
@@ -18,4 +19,5 @@ main img {
 }
 footer {
     text-align: center;
+    clear: both;
 }
